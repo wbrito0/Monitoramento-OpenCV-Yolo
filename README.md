@@ -30,7 +30,9 @@
   <pre><code>python monitoramento.py</code></pre>
 
   <p>A aplicação conecta ao RTSP da câmera e inicia a detecção de pessoas em tempo real. Ao identificar uma pessoa no quadro, uma caixa delimitadora será desenhada com a label "person".</p>
-
+ <h2>📷 Resultado</h2>
+<p>Exemplo real de detecção na prática :</p>
+<img src="midia/miguxo após sair.jpg" alt="Detecção de pessoa com YOLOv8" width="400"/>
   <h2>⚙ Configuração</h2>
   <ol>
     <li>Instale as dependências:
