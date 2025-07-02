@@ -14,7 +14,6 @@
   <ul>
     <li>🎥 Acesso ao stream da câmera IP via protocolo RTSP</li>
     <li>🧠 Detecção de pessoas usando o modelo <strong>YOLOv8</strong></li>
-    <li>✅ Tratamento de IP dinâmico da câmera</li>
     <li>🧒 <em>(Em desenvolvimento)</em> Reconhecimento facial para detectar apenas o Miguel</li>
   </ul>
 
